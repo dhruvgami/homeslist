@@ -3,6 +3,7 @@ frontend:
   phases:
     build:
       commands:
+        - cd homes
         - npm run build
   artifacts:
     baseDirectory: build
