@@ -1,0 +1,8 @@
+type Homes @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  Address: String
+  Pric: Int
+  Bedrooms: Int
+  Bathrooms: Float
+  Area: Int
+}
