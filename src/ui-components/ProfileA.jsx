@@ -96,7 +96,7 @@ export default function ProfileA(props) {
           color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
           type="group"
           fontSize="24px"
-          {...getOverrideProps(overrides, "Flex.Flex[1].IconGroup[-1]")}
+          {...getOverrideProps(overrides, "Flex.Flex[1].IconGroup[0]")}
         ></IconGroup>
         <Text
           fontFamily="Inter"

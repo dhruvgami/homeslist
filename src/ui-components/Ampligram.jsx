@@ -113,7 +113,7 @@ export default function Ampligram(props) {
             fontSize="24px"
             {...getOverrideProps(
               overrides,
-              "Flex.Flex[0].Flex[1].IconMoreVert[-1]"
+              "Flex.Flex[0].Flex[1].IconMoreVert[0]"
             )}
           ></IconMoreVert>
         </Flex>
@@ -159,7 +159,7 @@ export default function Ampligram(props) {
             fontSize="24px"
             {...getOverrideProps(
               overrides,
-              "Flex.Flex[1].Flex[0].IconFavoriteBorder[-1]"
+              "Flex.Flex[1].Flex[0].IconFavoriteBorder[0]"
             )}
           ></IconFavoriteBorder>
           <IconChatBubbleOutline
@@ -174,7 +174,7 @@ export default function Ampligram(props) {
             fontSize="24px"
             {...getOverrideProps(
               overrides,
-              "Flex.Flex[1].Flex[0].IconChatBubbleOutline[-1]"
+              "Flex.Flex[1].Flex[0].IconChatBubbleOutline[0]"
             )}
           ></IconChatBubbleOutline>
           <IconSend
@@ -187,10 +187,7 @@ export default function Ampligram(props) {
             color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
             type="send"
             fontSize="24px"
-            {...getOverrideProps(
-              overrides,
-              "Flex.Flex[1].Flex[0].IconSend[-1]"
-            )}
+            {...getOverrideProps(overrides, "Flex.Flex[1].Flex[0].IconSend[0]")}
           ></IconSend>
         </Flex>
         <Flex
@@ -218,7 +215,7 @@ export default function Ampligram(props) {
             fontSize="24px"
             {...getOverrideProps(
               overrides,
-              "Flex.Flex[1].Flex[1].IconBookmarkBorder[-1]"
+              "Flex.Flex[1].Flex[1].IconBookmarkBorder[0]"
             )}
           ></IconBookmarkBorder>
         </Flex>

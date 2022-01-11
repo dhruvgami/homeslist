@@ -117,7 +117,7 @@ export default function SideBar(props) {
                 fontSize="24px"
                 {...getOverrideProps(
                   overrides,
-                  "Flex.Flex[0].Flex[0].Flex[0].Flex[0].IconHome[-1]"
+                  "Flex.Flex[0].Flex[0].Flex[0].Flex[0].IconHome[0]"
                 )}
               ></IconHome>
               <Text
@@ -166,7 +166,7 @@ export default function SideBar(props) {
                 fontSize="24px"
                 {...getOverrideProps(
                   overrides,
-                  "Flex.Flex[0].Flex[0].Flex[0].Flex[1].IconHome[-1]"
+                  "Flex.Flex[0].Flex[0].Flex[0].Flex[1].IconHome[0]"
                 )}
               ></IconHome>
               <Text
@@ -257,7 +257,7 @@ export default function SideBar(props) {
                   fontSize="24px"
                   {...getOverrideProps(
                     overrides,
-                    "Flex.Flex[0].Flex[0].Flex[1].Flex[0].Flex[0].IconHome[-1]"
+                    "Flex.Flex[0].Flex[0].Flex[1].Flex[0].Flex[0].IconHome[0]"
                   )}
                 ></IconHome>
                 <Text
@@ -306,7 +306,7 @@ export default function SideBar(props) {
                   fontSize="24px"
                   {...getOverrideProps(
                     overrides,
-                    "Flex.Flex[0].Flex[0].Flex[1].Flex[0].Flex[1].IconHome[-1]"
+                    "Flex.Flex[0].Flex[0].Flex[1].Flex[0].Flex[1].IconHome[0]"
                   )}
                 ></IconHome>
                 <Text
@@ -355,7 +355,7 @@ export default function SideBar(props) {
                   fontSize="24px"
                   {...getOverrideProps(
                     overrides,
-                    "Flex.Flex[0].Flex[0].Flex[1].Flex[0].Flex[2].IconHome[-1]"
+                    "Flex.Flex[0].Flex[0].Flex[1].Flex[0].Flex[2].IconHome[0]"
                   )}
                 ></IconHome>
                 <Text
@@ -404,7 +404,7 @@ export default function SideBar(props) {
                   fontSize="24px"
                   {...getOverrideProps(
                     overrides,
-                    "Flex.Flex[0].Flex[0].Flex[1].Flex[0].Flex[3].IconHome[-1]"
+                    "Flex.Flex[0].Flex[0].Flex[1].Flex[0].Flex[3].IconHome[0]"
                   )}
                 ></IconHome>
                 <Text
@@ -453,7 +453,7 @@ export default function SideBar(props) {
                   fontSize="24px"
                   {...getOverrideProps(
                     overrides,
-                    "Flex.Flex[0].Flex[0].Flex[1].Flex[0].Flex[4].IconHome[-1]"
+                    "Flex.Flex[0].Flex[0].Flex[1].Flex[0].Flex[4].IconHome[0]"
                   )}
                 ></IconHome>
                 <Text
@@ -502,7 +502,7 @@ export default function SideBar(props) {
                   fontSize="24px"
                   {...getOverrideProps(
                     overrides,
-                    "Flex.Flex[0].Flex[0].Flex[1].Flex[0].Flex[5].IconHome[-1]"
+                    "Flex.Flex[0].Flex[0].Flex[1].Flex[0].Flex[5].IconHome[0]"
                   )}
                 ></IconHome>
                 <Text
@@ -551,7 +551,7 @@ export default function SideBar(props) {
                   fontSize="24px"
                   {...getOverrideProps(
                     overrides,
-                    "Flex.Flex[0].Flex[0].Flex[1].Flex[0].Flex[6].IconHome[-1]"
+                    "Flex.Flex[0].Flex[0].Flex[1].Flex[0].Flex[6].IconHome[0]"
                   )}
                 ></IconHome>
                 <Text
@@ -600,7 +600,7 @@ export default function SideBar(props) {
                   fontSize="24px"
                   {...getOverrideProps(
                     overrides,
-                    "Flex.Flex[0].Flex[0].Flex[1].Flex[0].Flex[7].IconHome[-1]"
+                    "Flex.Flex[0].Flex[0].Flex[1].Flex[0].Flex[7].IconHome[0]"
                   )}
                 ></IconHome>
                 <Text
@@ -754,7 +754,7 @@ export default function SideBar(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[0].Flex[1].Flex[0].IconSettings[-1]"
+                "Flex.Flex[0].Flex[1].Flex[0].IconSettings[0]"
               )}
             ></IconSettings>
           </Flex>

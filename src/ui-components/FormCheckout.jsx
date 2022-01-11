@@ -500,7 +500,7 @@ export default function FormCheckout(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[1].Flex[0].View[0].IconDelete[-1]"
+                "Flex.Flex[1].Flex[0].View[0].IconDelete[0]"
               )}
             ></IconDelete>
             <SelectField
@@ -663,7 +663,7 @@ export default function FormCheckout(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[1].Flex[0].View[1].IconDelete[-1]"
+                "Flex.Flex[1].Flex[0].View[1].IconDelete[0]"
               )}
             ></IconDelete>
             <SelectField
@@ -952,7 +952,7 @@ export default function FormCheckout(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[1].Flex[0].View[6].IconShoppingBag[-1]"
+                "Flex.Flex[1].Flex[0].View[6].IconShoppingBag[0]"
               )}
             ></IconShoppingBag>
             <Text

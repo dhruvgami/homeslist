@@ -9,7 +9,7 @@ import React from "react";
 import { getOverrideProps } from "@aws-amplify/ui-react/internal";
 import { Flex, Image, Text } from "@aws-amplify/ui-react";
 export default function CardLayout(props) {
-  const { overrides: overridesProp, ...rest } = props;
+  const { home, overrides: overridesProp, ...rest } = props;
   const overrides = { ...overridesProp };
   return (
     <Flex

@@ -185,7 +185,7 @@ export default function NavBar(props) {
           color="rgba(51.00000075995922,51.00000075995922,51.00000075995922,1)"
           type="notifications"
           fontSize="24px"
-          {...getOverrideProps(overrides, "Flex.Flex[2].IconNotifications[-1]")}
+          {...getOverrideProps(overrides, "Flex.Flex[2].IconNotifications[0]")}
         ></IconNotifications>
         <Image
           width="45px"

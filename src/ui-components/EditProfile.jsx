@@ -61,7 +61,7 @@ export default function EditProfile(props) {
             fontSize="24px"
             {...getOverrideProps(
               overrides,
-              "Flex.Flex[0].Flex[0].IconClose[-1]"
+              "Flex.Flex[0].Flex[0].IconClose[0]"
             )}
           ></IconClose>
           <Text

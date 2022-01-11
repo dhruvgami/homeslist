@@ -19,7 +19,6 @@ export default function HeroLayout1(props) {
         "Flex.Flex[0].Flex[0].Text[0]": {
           fontFamily: "Inter",
           fontSize: "16px",
-          label: "LOREM IPSUM",
           fontWeight: "700",
           color:
             "rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)",
@@ -34,11 +33,11 @@ export default function HeroLayout1(props) {
           alignSelf: "stretch",
           position: "relative",
           padding: "0px 0px 0px 0px",
+          children: "LOREM IPSUM",
         },
         "Flex.Flex[0].Flex[0].Flex[0].Text[0]": {
           fontFamily: "Inter",
           fontSize: "40px",
-          label: "Ut enim ad minim veniam quis nostrud",
           fontWeight: "700",
           color:
             "rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)",
@@ -52,12 +51,11 @@ export default function HeroLayout1(props) {
           alignSelf: "stretch",
           position: "relative",
           padding: "0px 0px 0px 0px",
+          children: "Ut enim ad minim veniam quis nostrud",
         },
         "Flex.Flex[0].Flex[0].Flex[0].Text[1]": {
           fontFamily: "Inter",
           fontSize: "16px",
-          label:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
           fontWeight: "400",
           color:
             "rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)",
@@ -72,6 +70,8 @@ export default function HeroLayout1(props) {
           alignSelf: "stretch",
           position: "relative",
           padding: "0px 0px 0px 0px",
+          children:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
         },
         "Flex.Flex[0].Flex[0].Flex[0]": {
           gap: "16px",
@@ -87,9 +87,9 @@ export default function HeroLayout1(props) {
           display: "flex",
           shrink: "0",
           width: "206px",
-          label: "Primary Button",
           size: "large",
           variation: "primary",
+          children: "Primary Button",
         },
         "Flex.Flex[0].Flex[0]": {
           gap: "24px",
@@ -153,7 +153,6 @@ export default function HeroLayout1(props) {
         "Flex.Flex[0].Flex[0].Text[0]": {
           fontFamily: "Inter",
           fontSize: "16px",
-          label: "LOREM IPSUM",
           fontWeight: "700",
           color: "rgba(255,255,255,1)",
           lineHeight: "20px",
@@ -167,11 +166,11 @@ export default function HeroLayout1(props) {
           alignSelf: "stretch",
           position: "relative",
           padding: "0px 0px 0px 0px",
+          children: "LOREM IPSUM",
         },
         "Flex.Flex[0].Flex[0].Flex[0].Text[0]": {
           fontFamily: "Inter",
           fontSize: "40px",
-          label: "Ut enim ad minim veniam quis nostrud",
           fontWeight: "700",
           color: "rgba(255,255,255,1)",
           lineHeight: "48px",
@@ -184,12 +183,11 @@ export default function HeroLayout1(props) {
           alignSelf: "stretch",
           position: "relative",
           padding: "0px 0px 0px 0px",
+          children: "Ut enim ad minim veniam quis nostrud",
         },
         "Flex.Flex[0].Flex[0].Flex[0].Text[1]": {
           fontFamily: "Inter",
           fontSize: "16px",
-          label:
-            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
           fontWeight: "400",
           color: "rgba(255,255,255,1)",
           lineHeight: "24px",
@@ -203,6 +201,8 @@ export default function HeroLayout1(props) {
           alignSelf: "stretch",
           position: "relative",
           padding: "0px 0px 0px 0px",
+          children:
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.",
         },
         "Flex.Flex[0].Flex[0].Flex[0]": {
           gap: "16px",
@@ -218,9 +218,9 @@ export default function HeroLayout1(props) {
           display: "flex",
           shrink: "0",
           width: "206px",
-          label: "Primary Button",
           size: "large",
           variation: "primary",
+          children: "Primary Button",
         },
         "Flex.Flex[0].Flex[0]": {
           gap: "24px",

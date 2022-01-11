@@ -34,7 +34,7 @@ export const schema = {
                 "Bathrooms": {
                     "name": "Bathrooms",
                     "isArray": false,
-                    "type": "Float",
+                    "type": "Int",
                     "isRequired": false,
                     "attributes": []
                 },
@@ -90,5 +90,5 @@ export const schema = {
     },
     "enums": {},
     "nonModels": {},
-    "version": "6359c7cb675ccba0d927a3dfef742769"
+    "version": "aad98f8d2b12182be323b5f124b46247"
 };

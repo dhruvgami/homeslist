@@ -159,7 +159,7 @@ export default function SocialA(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[0].Flex[0].Flex[1].IconArrowForward[-1]"
+                "Flex.Flex[0].Flex[0].Flex[1].IconArrowForward[0]"
               )}
             ></IconArrowForward>
             <Text
@@ -226,7 +226,7 @@ export default function SocialA(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[0].Flex[0].Flex[2].IconBookmarkBorder[-1]"
+                "Flex.Flex[0].Flex[0].Flex[2].IconBookmarkBorder[0]"
               )}
             ></IconBookmarkBorder>
             <IconShare
@@ -241,7 +241,7 @@ export default function SocialA(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[0].Flex[0].Flex[2].IconShare[-1]"
+                "Flex.Flex[0].Flex[0].Flex[2].IconShare[0]"
               )}
             ></IconShare>
             <IconMoreVert
@@ -256,7 +256,7 @@ export default function SocialA(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[0].Flex[0].Flex[2].IconMoreVert[-1]"
+                "Flex.Flex[0].Flex[0].Flex[2].IconMoreVert[0]"
               )}
             ></IconMoreVert>
           </Flex>
@@ -291,7 +291,7 @@ export default function SocialA(props) {
           color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
           type="arrow_forward"
           fontSize="24px"
-          {...getOverrideProps(overrides, "Flex.Flex[1].IconArrowForward[-1]")}
+          {...getOverrideProps(overrides, "Flex.Flex[1].IconArrowForward[0]")}
         ></IconArrowForward>
         <Text
           fontFamily="Inter"

@@ -73,7 +73,7 @@ export default function SocialB(props) {
             fontSize="24px"
             {...getOverrideProps(
               overrides,
-              "Flex.Flex[0].Flex[0].IconFavorite[-1]"
+              "Flex.Flex[0].Flex[0].IconFavorite[0]"
             )}
           ></IconFavorite>
           <Text
@@ -236,7 +236,7 @@ export default function SocialB(props) {
                 fontSize="24px"
                 {...getOverrideProps(
                   overrides,
-                  "Flex.Flex[1].Flex[0].Flex[0].Flex[1].IconMoreHoriz[-1]"
+                  "Flex.Flex[1].Flex[0].Flex[0].Flex[1].IconMoreHoriz[0]"
                 )}
               ></IconMoreHoriz>
             </Flex>
@@ -294,7 +294,7 @@ export default function SocialB(props) {
             fontSize="24px"
             {...getOverrideProps(
               overrides,
-              "Flex.Flex[2].Flex[0].IconReply[-1]"
+              "Flex.Flex[2].Flex[0].IconReply[0]"
             )}
           ></IconReply>
           <Text
@@ -337,7 +337,7 @@ export default function SocialB(props) {
             fontSize="24px"
             {...getOverrideProps(
               overrides,
-              "Flex.Flex[2].Flex[1].IconShuffle[-1]"
+              "Flex.Flex[2].Flex[1].IconShuffle[0]"
             )}
           ></IconShuffle>
           <Text
@@ -380,7 +380,7 @@ export default function SocialB(props) {
             fontSize="24px"
             {...getOverrideProps(
               overrides,
-              "Flex.Flex[2].Flex[2].IconFavoriteBorder[-1]"
+              "Flex.Flex[2].Flex[2].IconFavoriteBorder[0]"
             )}
           ></IconFavoriteBorder>
           <Text
@@ -411,7 +411,7 @@ export default function SocialB(props) {
           color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
           type="share"
           fontSize="24px"
-          {...getOverrideProps(overrides, "Flex.Flex[2].IconShare[-1]")}
+          {...getOverrideProps(overrides, "Flex.Flex[2].IconShare[0]")}
         ></IconShare>
       </Flex>
     </Flex>

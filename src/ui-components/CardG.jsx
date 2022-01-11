@@ -102,7 +102,7 @@ export default function CardG(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[0].Flex[0].Flex[0].IconFavoriteBorder[-1]"
+                "Flex.Flex[0].Flex[0].Flex[0].IconFavoriteBorder[0]"
               )}
             ></IconFavoriteBorder>
           </Flex>

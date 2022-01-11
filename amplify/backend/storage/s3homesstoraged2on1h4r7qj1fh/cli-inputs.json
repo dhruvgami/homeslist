@@ -1,0 +1,11 @@
+{
+  "resourceName": "s3homesstoraged2on1h4r7qj1fh",
+  "bucketName": "homes-storage-d2on1h4r7qj1fh",
+  "policyUUID": "5e0e2d53",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ"
+  ]
+}

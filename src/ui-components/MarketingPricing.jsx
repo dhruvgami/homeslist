@@ -127,7 +127,7 @@ export default function MarketingPricing(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[0].Flex[0].Flex[0].IconCheck[-1]"
+                "Flex.Flex[0].Flex[0].Flex[0].IconCheck[0]"
               )}
             ></IconCheck>
             <Text
@@ -175,7 +175,7 @@ export default function MarketingPricing(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[0].Flex[0].Flex[1].IconCheck[-1]"
+                "Flex.Flex[0].Flex[0].Flex[1].IconCheck[0]"
               )}
             ></IconCheck>
             <Text
@@ -223,7 +223,7 @@ export default function MarketingPricing(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[0].Flex[0].Flex[2].IconCheck[-1]"
+                "Flex.Flex[0].Flex[0].Flex[2].IconCheck[0]"
               )}
             ></IconCheck>
             <Text
@@ -340,7 +340,7 @@ export default function MarketingPricing(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[0].Flex[1].Flex[0].IconCheck[-1]"
+                "Flex.Flex[0].Flex[1].Flex[0].IconCheck[0]"
               )}
             ></IconCheck>
             <Text
@@ -388,7 +388,7 @@ export default function MarketingPricing(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[0].Flex[1].Flex[1].IconCheck[-1]"
+                "Flex.Flex[0].Flex[1].Flex[1].IconCheck[0]"
               )}
             ></IconCheck>
             <Text
@@ -436,7 +436,7 @@ export default function MarketingPricing(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[0].Flex[1].Flex[2].IconCheck[-1]"
+                "Flex.Flex[0].Flex[1].Flex[2].IconCheck[0]"
               )}
             ></IconCheck>
             <Text
@@ -553,7 +553,7 @@ export default function MarketingPricing(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[0].Flex[2].Flex[0].IconCheck[-1]"
+                "Flex.Flex[0].Flex[2].Flex[0].IconCheck[0]"
               )}
             ></IconCheck>
             <Text
@@ -601,7 +601,7 @@ export default function MarketingPricing(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[0].Flex[2].Flex[1].IconCheck[-1]"
+                "Flex.Flex[0].Flex[2].Flex[1].IconCheck[0]"
               )}
             ></IconCheck>
             <Text
@@ -649,7 +649,7 @@ export default function MarketingPricing(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[0].Flex[2].Flex[2].IconCheck[-1]"
+                "Flex.Flex[0].Flex[2].Flex[2].IconCheck[0]"
               )}
             ></IconCheck>
             <Text
@@ -766,7 +766,7 @@ export default function MarketingPricing(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[0].Flex[3].Flex[0].IconCheck[-1]"
+                "Flex.Flex[0].Flex[3].Flex[0].IconCheck[0]"
               )}
             ></IconCheck>
             <Text
@@ -814,7 +814,7 @@ export default function MarketingPricing(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[0].Flex[3].Flex[1].IconCheck[-1]"
+                "Flex.Flex[0].Flex[3].Flex[1].IconCheck[0]"
               )}
             ></IconCheck>
             <Text
@@ -862,7 +862,7 @@ export default function MarketingPricing(props) {
               fontSize="24px"
               {...getOverrideProps(
                 overrides,
-                "Flex.Flex[0].Flex[3].Flex[2].IconCheck[-1]"
+                "Flex.Flex[0].Flex[3].Flex[2].IconCheck[0]"
               )}
             ></IconCheck>
             <Text

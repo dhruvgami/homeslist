@@ -82,7 +82,7 @@ export default function Features2x3(props) {
                 fontSize="40px"
                 {...getOverrideProps(
                   overrides,
-                  "Flex.Flex[0].Flex[0].Flex[0].Flex[0].IconAddBox[-1]"
+                  "Flex.Flex[0].Flex[0].Flex[0].Flex[0].IconAddBox[0]"
                 )}
               ></IconAddBox>
               <Flex
@@ -182,7 +182,7 @@ export default function Features2x3(props) {
                 fontSize="40px"
                 {...getOverrideProps(
                   overrides,
-                  "Flex.Flex[0].Flex[0].Flex[1].Flex[0].IconAddBox[-1]"
+                  "Flex.Flex[0].Flex[0].Flex[1].Flex[0].IconAddBox[0]"
                 )}
               ></IconAddBox>
               <Flex
@@ -282,7 +282,7 @@ export default function Features2x3(props) {
                 fontSize="40px"
                 {...getOverrideProps(
                   overrides,
-                  "Flex.Flex[0].Flex[0].Flex[2].Flex[0].IconAddBox[-1]"
+                  "Flex.Flex[0].Flex[0].Flex[2].Flex[0].IconAddBox[0]"
                 )}
               ></IconAddBox>
               <Flex
@@ -394,7 +394,7 @@ export default function Features2x3(props) {
                 fontSize="40px"
                 {...getOverrideProps(
                   overrides,
-                  "Flex.Flex[0].Flex[1].Flex[0].Flex[0].IconAddBox[-1]"
+                  "Flex.Flex[0].Flex[1].Flex[0].Flex[0].IconAddBox[0]"
                 )}
               ></IconAddBox>
               <Flex
@@ -494,7 +494,7 @@ export default function Features2x3(props) {
                 fontSize="40px"
                 {...getOverrideProps(
                   overrides,
-                  "Flex.Flex[0].Flex[1].Flex[1].Flex[0].IconAddBox[-1]"
+                  "Flex.Flex[0].Flex[1].Flex[1].Flex[0].IconAddBox[0]"
                 )}
               ></IconAddBox>
               <Flex
@@ -594,7 +594,7 @@ export default function Features2x3(props) {
                 fontSize="40px"
                 {...getOverrideProps(
                   overrides,
-                  "Flex.Flex[0].Flex[1].Flex[2].Flex[0].IconAddBox[-1]"
+                  "Flex.Flex[0].Flex[1].Flex[2].Flex[0].IconAddBox[0]"
                 )}
               ></IconAddBox>
               <Flex

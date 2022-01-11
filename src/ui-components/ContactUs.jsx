@@ -223,7 +223,7 @@ export default function ContactUs(props) {
             fontSize="24px"
             {...getOverrideProps(
               overrides,
-              "Flex.Flex[2].Flex[0].IconCamera[-1]"
+              "Flex.Flex[2].Flex[0].IconCamera[0]"
             )}
           ></IconCamera>
           <Text
@@ -263,10 +263,7 @@ export default function ContactUs(props) {
             color="rgba(13.000000175088644,26.000000350177288,38.0000015348196,1)"
             type="flag"
             fontSize="24px"
-            {...getOverrideProps(
-              overrides,
-              "Flex.Flex[2].Flex[1].IconFlag[-1]"
-            )}
+            {...getOverrideProps(overrides, "Flex.Flex[2].Flex[1].IconFlag[0]")}
           ></IconFlag>
           <Text
             fontFamily="Inter"
